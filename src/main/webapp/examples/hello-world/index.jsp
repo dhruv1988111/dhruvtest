@@ -28,7 +28,7 @@
 
     <script>
         if (self === top) {
-            // Not in Iframe
+            // Not in Iframe 
             alert("This canvas app must be included within an iframe");
         }
 
@@ -43,6 +43,6 @@
 </head>
 <body>
     <br/>
-    <h1>Hello <span id='username'></span></h1>
+    <h1>Hello hiiiiiiiiiiiiiii  <span id='username'></span></h1>
 </body>
 </html>
